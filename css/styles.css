@@ -211,6 +211,7 @@ padding: 120px 0;
 .team-member {
     background-color: #FFFFFF;
     align-items: center;
+    width: calc((100% - 72px) / 4);
 }
 
 .team-member-name {
