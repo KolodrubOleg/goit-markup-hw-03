@@ -255,11 +255,15 @@ border-top-left-radius: 0px;
     color: #2e2f42;
 }
 
+.portfolio-list {
+display: flex;
+gap: 32px;
+}
+
 .portfolio-item {
     align-items: flex-start;
     background: var(--WHITE, #FFF);
-    display: flex;
-    gap: 32px;
+    
 }
 
 .portfolio-item-heading {
