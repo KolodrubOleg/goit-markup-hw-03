@@ -258,6 +258,8 @@ border-top-left-radius: 0px;
 .portfolio-item {
     align-items: flex-start;
     background: var(--WHITE, #FFF);
+    display: flex;
+    gap: 32px;
 }
 
 .portfolio-item-heading {
