@@ -312,6 +312,7 @@ margin-bottom: 8px;
 .footer-block {
     background-color: #2e2f42;
     text-align: center;
+    padding: 100px 0;
 }
 
 .footer-logo {
@@ -322,6 +323,8 @@ margin-bottom: 8px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .footer-logo-span {
