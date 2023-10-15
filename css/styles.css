@@ -126,6 +126,7 @@ padding: 24px 0;
     color: #ffffff;
     max-width: 496px;
     margin: 0 auto;
+
 }
 
 .main-button {
@@ -171,10 +172,9 @@ margin-top: 48px;
     padding: 120px 0;
 }
 .benefits-heading {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color:  #2E2F42;
     font-family: Roboto;
     font-size: 20px;
-    font-style: normal;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -290,8 +290,7 @@ margin-bottom: 8px;
 }
 
 .portfolio-item {
-    align-items: flex-start;
-    background: var(--WHITE, #FFF);
+    background:#FFFFFF;
     width: calc((100% - 48px) / 3);
 }
 
@@ -320,7 +319,7 @@ margin-bottom: 8px;
     padding: 100px 0;
 }
 
-.footer-logo {
+.footer-link {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
