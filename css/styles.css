@@ -131,8 +131,8 @@ padding: 24px 0;
 
 .main-button {
     font-family: "Roboto", sans-serif;
-    background: var(--IRIS, #4D5AE5);
-    color: var(--WHITE, #FFF);
+    background:  #4D5AE5;
+    color:  #FFFFFF;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -267,7 +267,8 @@ margin-bottom: 72px;
         flex-wrap: wrap;
         column-gap: 24px;
         row-gap: 48px;
-  
+
+    background:  #FFFFFF;
 }
 
 .container-item-portfolio {
@@ -290,7 +291,7 @@ margin-bottom: 8px;
 }
 
 .portfolio-item {
-    background:#FFFFFF;
+    
     width: calc((100% - 48px) / 3);
 }
 
