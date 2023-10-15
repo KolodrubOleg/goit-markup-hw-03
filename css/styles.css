@@ -106,7 +106,8 @@ padding: 24px 0;
    
 }
 .address-block-list {
-    gap: 40px;
+gap: 40px;
+display: flex;
 }
 
 
