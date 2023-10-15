@@ -61,11 +61,11 @@ align-items: center;
 }
 
 .nav-list {
-    display: flex;
     gap: 40px;
     margin: 0 auto;
 list-style: none;
 padding: 0;
+display: flex;
 }
 
 .page-link {
