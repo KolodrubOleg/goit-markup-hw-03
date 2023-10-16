@@ -271,6 +271,8 @@ margin-bottom: 72px;
         row-gap: 48px;
 
     background:  #FFFFFF;
+
+  
 }
 
 .container-item-portfolio {
@@ -286,13 +288,11 @@ margin-bottom: 8px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
-
     color: #2e2f42;
-
     margin-bottom: 72px;
 }
 
-.portfolio-item {
+.portfolio-list {
     
     width: calc((100% - 48px) / 3);
 }
