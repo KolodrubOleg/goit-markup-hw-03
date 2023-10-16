@@ -269,7 +269,6 @@ margin-bottom: 72px;
         flex-wrap: wrap;
         column-gap: 24px;
         row-gap: 48px;
-
     background:  #FFFFFF;
 
   
@@ -291,9 +290,8 @@ margin-bottom: 8px;
         margin-bottom: 72px;
 }
 
-.portfolio-item {
+.portfolio-li{
     width: calc((100% - 48px) / 3);
-    
 }
 
 .portfolio-item-heading {
