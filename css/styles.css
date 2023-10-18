@@ -228,7 +228,7 @@ margin-top: 48px;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    margin-bottom: 32px;
+    margin-bottom: 72px;
 
 }
 .team-word {
@@ -271,7 +271,7 @@ margin-top: 48px;
 .section-portfolio {
     background-color: #FFF;
     text-align: center;
-
+padding-top: 120px;
 }
 
 
@@ -291,7 +291,7 @@ margin-top: 48px;
 border: 1px solid #e7e9fc;
 border-top: none;
 display: flex;
-    padding: 32px 24px;
+    padding: 32px 16px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
@@ -304,9 +304,9 @@ display: flex;
     font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
- margin-bottom: 72px;
- margin-top: 79px;
-}
+        margin-bottom: 72px;
+           
+        }
 
 .portfolio-items{
 width: calc((100% - 48px) / 3);
