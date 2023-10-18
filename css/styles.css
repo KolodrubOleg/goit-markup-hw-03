@@ -29,7 +29,7 @@ a {
 }
 
 /* Header */
-.container-header {
+.container-first{
 display: flex;
 width: 1158px;
 padding: 0 15px;
