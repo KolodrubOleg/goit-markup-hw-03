@@ -33,13 +33,16 @@ border-bottom: 1px solid #e7e9fc;
 
 }
 
-
+.container-main {
+    width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
 
 .main-navigation{
 display: flex;
 align-items: center;
-width: 1158px;
-margin: 0;
+
 }
 
 .header-logo {
