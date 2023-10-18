@@ -39,10 +39,9 @@ border-bottom: 1px solid #e7e9fc;
 
 }
 
-.container-main {
-   
-        
+.container-main {  
 display: flex;
+margin: 0 156px;
 }
 
 .main-navigation{
