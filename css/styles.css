@@ -296,9 +296,10 @@ border-top: none;
         color: #2e2f42;
     font-size: 36px;
         line-height: 1.11;
-        text-align: center;
         letter-spacing: 0.02em;
         margin-bottom: 72px;
+      
+       
 }
 
 .portfolio-items{
@@ -319,8 +320,6 @@ margin-bottom: 8px;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-
-  
 }
 
 /* Footer */
@@ -329,8 +328,7 @@ margin-bottom: 8px;
     background-color: #2e2f42;
     padding: 100px 0;
 }
-
-.footer-link {
+.link-end{
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
