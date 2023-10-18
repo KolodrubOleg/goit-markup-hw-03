@@ -24,14 +24,18 @@ a {
     text-decoration: none;
 }
 
-
+.container {
+margin: 0 auto;
+    padding: 0 15px;
+    width: 1158px;
+}
 
 .header-main {
 border-bottom: 1px solid #e7e9fc;
         background: #FFF;
 
 }
-.container {  
+.header-main .container {  
 display: flex;
 margin: 0 auto;
 padding: 0 15px;
@@ -66,7 +70,6 @@ align-items: center;
 list-style: none;
 display: flex;
 
-
 }
 
 .page-link {
@@ -89,14 +92,6 @@ padding: 24px 0;
     color: #404bbf;
 }
 
-.contact-link {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-    
-}
-
 .address-block {
     color: #434455;
     font-family: Roboto;
@@ -113,7 +108,13 @@ display: flex;
 padding: 24px 0
 
 }
+.contact-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 
+}
 
 /* Hero section */
 
