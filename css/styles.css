@@ -24,18 +24,14 @@ a {
     text-decoration: none;
 }
 
-.container {
-max-width: 1158px;
-padding: 0 15px;
-margin: 0 auto;
-}
+
 
 .header-main {
 border-bottom: 1px solid #e7e9fc;
         background: #FFF;
 
 }
-.container-main {  
+.container {  
 display: flex;
 margin: 0 auto;
 padding: 0 15px;
