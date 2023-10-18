@@ -24,15 +24,13 @@ a {
     text-decoration: none;
 }
 
-.container {
-   width: 1158px;
-}
 
 /* Header */
 .container-first{
 display: flex;
 width: 1158px;
 padding: 0 15px;
+margin: 0;
 }
 
 .header-main {
