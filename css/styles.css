@@ -127,7 +127,10 @@ display: flex;
     background-color: #2e2f42;
     padding: 188px 0;
 }
-
+ 
+.container-hero {
+    flex-shrink: 0;
+}
 .main-heading {
      color: #ffffff;
     font-size: 56px;
@@ -208,10 +211,15 @@ gap: 24px;
 
 /* Section-Team 3 */
 
+.container-team {
+    flex-shrink: 0;
+}
+
 .section-team {
     background-color: #F4F4FD;
     text-align: center;
     padding: 120px 0;
+    
 }
 
 .team-list {
@@ -232,6 +240,7 @@ gap: 24px;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     margin-bottom: 72px;
+
 }
 
 .team-member {
@@ -272,6 +281,10 @@ gap: 24px;
     text-align: center;
 padding: 120px 0;
 
+}
+
+.container-portfolio {|
+flex-shrink: 0;
 }
 
 .portfolio-list {
@@ -323,6 +336,10 @@ margin-bottom: 8px;
 }
 
 /* Footer */
+.container-footer {
+    
+        flex-shrink: 0
+}
 
 .footer-block {
     background-color: #2e2f42;
